@@ -9,6 +9,8 @@ Women Who Code Los Angeles
 
 [nodeJS](http://nodejs.org/)
 
+[codewars](http://www.codewars.com/?language=javascript)
+
 [JSbin](http://jsbin.com/)
 
 [chrome developer tools](https://developer.chrome.com/devtools)
