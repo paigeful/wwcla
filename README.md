@@ -6,8 +6,11 @@ Women Who Code Los Angeles
 
 ###Useful links
 [nodeschool.io](http://nodeschool.io/)
+
 [nodeJS](http://nodejs.org/)
+
 [JSbin](http://jsbin.com/)
+
 [chrome developer tools](https://developer.chrome.com/devtools)
 
 IDE
